@@ -1,0 +1,1 @@
+## Arquivo criado apenas para a pasta log existir
